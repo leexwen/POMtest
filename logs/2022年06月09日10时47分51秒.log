@@ -1,0 +1,6 @@
+2022-06-09 10:47:51,776 - BrowserEngine - INFO - 选择的 Chrome 浏览器.
+2022-06-09 10:47:51,777 - BrowserEngine - INFO - 测试服务器地址 url 是: https://www.baidu.com
+2022-06-09 10:47:58,131 - BrowserEngine - INFO - 启动 Chrome 浏览器.
+2022-06-09 10:47:58,666 - BrowserEngine - INFO - 打开 url: https://www.baidu.com
+2022-06-09 10:47:58,873 - BrowserEngine - INFO - 最大化当前窗口.
+2022-06-09 10:47:58,878 - BrowserEngine - INFO - 设置隐式等待 10 秒.

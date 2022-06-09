@@ -1,0 +1,55 @@
+2022-06-09 14:32:17,342 - BrowserEngine - INFO - 选择的 Chrome 浏览器.
+2022-06-09 14:32:17,342 - BrowserEngine - INFO - 测试服务器地址 url 是: https://www.baidu.com
+2022-06-09 14:32:22,256 - BrowserEngine - INFO - 启动 Chrome 浏览器.
+2022-06-09 14:32:22,978 - BrowserEngine - INFO - 打开 url: https://www.baidu.com
+2022-06-09 14:32:23,132 - BrowserEngine - INFO - 最大化当前窗口.
+2022-06-09 14:32:23,134 - BrowserEngine - INFO - 设置隐式等待 10 秒.
+2022-06-09 14:32:25,144 - BasePage - INFO - 休眠 2 秒
+2022-06-09 14:32:25,163 - BasePage - INFO - 找到了元素   id 成功  元素为: kw 
+2022-06-09 14:32:25,265 - BasePage - INFO -  ' selenium ' 类型在输入框中
+2022-06-09 14:32:27,268 - BasePage - INFO - 休眠 2 秒
+2022-06-09 14:32:27,286 - BasePage - INFO - 找到了元素   xpath 成功  元素为: //*[@id='su'] 
+2022-06-09 14:32:27,345 - BasePage - INFO - 元素 '  ' 被点击.
+2022-06-09 14:32:29,360 - BasePage - INFO - 休眠 2 秒
+2022-06-09 14:32:31,375 - BasePage - INFO - 休眠 2 秒
+2022-06-09 14:32:31,468 - BasePage - INFO - 当前页面标题是 selenium_百度搜索
+2022-06-09 14:32:31,483 - BasePage - INFO - 找到了元素   id 成功  元素为: kw 
+2022-06-09 14:32:31,515 - BasePage - INFO - 输入前清除输入框中的文本.
+2022-06-09 14:32:33,527 - BasePage - INFO - 休眠 2 秒
+2022-06-09 14:32:35,533 - BasePage - INFO - 休眠 2 秒
+2022-06-09 14:32:35,546 - BasePage - INFO - 找到了元素   id 成功  元素为: kw 
+2022-06-09 14:32:35,617 - BasePage - INFO -  ' python ' 类型在输入框中
+2022-06-09 14:32:37,624 - BasePage - INFO - 休眠 2 秒
+2022-06-09 14:32:37,646 - BasePage - INFO - 找到了元素   xpath 成功  元素为: //*[@id='su'] 
+2022-06-09 14:32:37,695 - BasePage - INFO - 元素 '  ' 被点击.
+2022-06-09 14:32:39,700 - BasePage - INFO - 休眠 2 秒
+2022-06-09 14:32:41,709 - BasePage - INFO - 休眠 2 秒
+2022-06-09 14:32:41,797 - BasePage - INFO - 当前页面标题是 python_百度搜索
+2022-06-09 14:32:43,989 - BrowserEngine - INFO - 选择的 Chrome 浏览器.
+2022-06-09 14:32:43,989 - BrowserEngine - INFO - 测试服务器地址 url 是: https://www.baidu.com
+2022-06-09 14:32:49,362 - BrowserEngine - INFO - 启动 Chrome 浏览器.
+2022-06-09 14:32:49,976 - BrowserEngine - INFO - 打开 url: https://www.baidu.com
+2022-06-09 14:32:50,151 - BrowserEngine - INFO - 最大化当前窗口.
+2022-06-09 14:32:50,152 - BrowserEngine - INFO - 设置隐式等待 10 秒.
+2022-06-09 14:32:50,197 - BasePage - INFO - 当前页面标题是 百度一下，你就知道
+2022-06-09 14:32:54,397 - BrowserEngine - INFO - 选择的 Chrome 浏览器.
+2022-06-09 14:32:54,397 - BrowserEngine - INFO - 测试服务器地址 url 是: https://www.baidu.com
+2022-06-09 14:32:58,880 - BrowserEngine - INFO - 启动 Chrome 浏览器.
+2022-06-09 14:32:59,419 - BrowserEngine - INFO - 打开 url: https://www.baidu.com
+2022-06-09 14:32:59,596 - BrowserEngine - INFO - 最大化当前窗口.
+2022-06-09 14:32:59,599 - BrowserEngine - INFO - 设置隐式等待 10 秒.
+2022-06-09 14:32:59,701 - BasePage - INFO - 找到了元素 新闻  xpath 成功  元素为: //*[@id="s-top-left"]/a[1] 
+2022-06-09 14:32:59,764 - BasePage - INFO - 元素 ' 新闻 ' 被点击.
+2022-06-09 14:33:01,779 - BasePage - INFO - 休眠 2 秒
+2022-06-09 14:33:01,797 - BasePage - INFO - 切换新的窗口
+2022-06-09 14:33:02,046 - BasePage - INFO - 已截取屏幕截图并保存到文件夹 : /screenshots
+2022-06-09 14:33:02,127 - BasePage - INFO -  ' selenium ' 类型在输入框中
+2022-06-09 14:33:04,139 - BasePage - INFO - 休眠 2 秒
+2022-06-09 14:33:04,160 - BasePage - INFO - 输入前清除输入框中的文本.
+2022-06-09 14:33:06,174 - BasePage - INFO - 休眠 2 秒
+2022-06-09 14:33:06,193 - BasePage - INFO - 找到了元素 习近平再赴四川考察，在眉山重点关注了什么？  xpath 成功  元素为: //*[@id="pane-news"]/div/ul/li[1]/strong/a 
+2022-06-09 14:33:06,265 - BasePage - INFO - 元素 ' 习近平再赴四川考察，在眉山重点关注了什么？ ' 被点击.
+2022-06-09 14:33:08,270 - BasePage - INFO - 休眠 2 秒
+2022-06-09 14:33:10,286 - BasePage - INFO - 休眠 2 秒
+2022-06-09 14:33:10,299 - BasePage - INFO - 切换新的窗口
+2022-06-09 14:33:10,559 - BasePage - INFO - 已截取屏幕截图并保存到文件夹 : /screenshots

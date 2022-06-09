@@ -1,0 +1,21 @@
+2022-06-09 11:31:40,765 - BrowserEngine - INFO - 选择的 Chrome 浏览器.
+2022-06-09 11:31:40,765 - BrowserEngine - INFO - 测试服务器地址 url 是: https://www.baidu.com
+2022-06-09 11:31:45,293 - BrowserEngine - INFO - 启动 Chrome 浏览器.
+2022-06-09 11:31:45,949 - BrowserEngine - INFO - 打开 url: https://www.baidu.com
+2022-06-09 11:31:46,118 - BrowserEngine - INFO - 最大化当前窗口.
+2022-06-09 11:31:46,119 - BrowserEngine - INFO - 设置隐式等待 10 秒.
+2022-06-09 11:31:46,211 - BasePage - INFO - 找到了元素 新闻  xpath 成功  元素为: //*[@id="s-top-left"]/a[1] 
+2022-06-09 11:31:46,295 - BasePage - INFO - 元素 ' 新闻 ' 被点击.
+2022-06-09 11:31:48,308 - BasePage - INFO - 休眠 2 秒
+2022-06-09 11:31:48,317 - BasePage - INFO - 切换新的窗口
+2022-06-09 11:31:48,568 - BasePage - INFO - 已截取屏幕截图并保存到文件夹 : /screenshots
+2022-06-09 11:31:48,651 - BasePage - INFO -  ' selenium ' 类型在输入框中
+2022-06-09 11:31:50,653 - BasePage - INFO - 休眠 2 秒
+2022-06-09 11:31:50,677 - BasePage - INFO - 输入前清除输入框中的文本.
+2022-06-09 11:31:52,691 - BasePage - INFO - 休眠 2 秒
+2022-06-09 11:31:52,709 - BasePage - INFO - 找到了元素 习近平再赴四川考察，在眉山重点关注了什么？  xpath 成功  元素为: //*[@id="pane-news"]/div/ul/li[1]/strong/a 
+2022-06-09 11:31:52,810 - BasePage - INFO - 元素 ' 习近平再赴四川考察，在眉山重点关注了什么？ ' 被点击.
+2022-06-09 11:31:54,816 - BasePage - INFO - 休眠 2 秒
+2022-06-09 11:31:56,816 - BasePage - INFO - 休眠 2 秒
+2022-06-09 11:31:56,823 - BasePage - INFO - 切换新的窗口
+2022-06-09 11:31:57,103 - BasePage - INFO - 已截取屏幕截图并保存到文件夹 : /screenshots

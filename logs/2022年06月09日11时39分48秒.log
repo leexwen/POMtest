@@ -1,0 +1,13 @@
+2022-06-09 11:39:48,520 - BrowserEngine - INFO - 选择的 Chrome 浏览器.
+2022-06-09 11:39:48,521 - BrowserEngine - INFO - 测试服务器地址 url 是: https://www.baidu.com
+2022-06-09 11:39:53,134 - BrowserEngine - INFO - 启动 Chrome 浏览器.
+2022-06-09 11:39:53,724 - BrowserEngine - INFO - 打开 url: https://www.baidu.com
+2022-06-09 11:39:53,931 - BrowserEngine - INFO - 最大化当前窗口.
+2022-06-09 11:39:53,934 - BrowserEngine - INFO - 设置隐式等待 10 秒.
+2022-06-09 11:39:55,943 - BasePage - INFO - 休眠 2 秒
+2022-06-09 11:39:55,963 - BasePage - INFO - 找到了元素   id 成功  元素为: kw 
+2022-06-09 11:39:56,055 - BasePage - INFO -  ' selenium ' 类型在输入框中
+2022-06-09 11:39:58,070 - BasePage - INFO - 休眠 2 秒
+2022-06-09 11:39:58,191 - BasePage - INFO - 已截取屏幕截图并保存到文件夹 : /screenshots
+2022-06-09 11:40:00,203 - BasePage - INFO - 休眠 2 秒
+2022-06-09 11:40:00,207 - BasePage - INFO - 当前页面标题是 百度一下，你就知道

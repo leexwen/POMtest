@@ -1,0 +1,25 @@
+2022-06-09 13:45:28,110 - BrowserEngine - INFO - 选择的 Chrome 浏览器.
+2022-06-09 13:45:28,111 - BrowserEngine - INFO - 测试服务器地址 url 是: https://www.baidu.com
+2022-06-09 13:45:32,773 - BrowserEngine - INFO - 启动 Chrome 浏览器.
+2022-06-09 13:45:33,364 - BrowserEngine - INFO - 打开 url: https://www.baidu.com
+2022-06-09 13:45:33,546 - BrowserEngine - INFO - 最大化当前窗口.
+2022-06-09 13:45:33,548 - BrowserEngine - INFO - 设置隐式等待 10 秒.
+2022-06-09 13:45:35,551 - BasePage - INFO - 休眠 2 秒
+2022-06-09 13:45:35,571 - BasePage - INFO - 找到了元素   id 成功  元素为: kw 
+2022-06-09 13:45:35,671 - BasePage - INFO -  ' selenium ' 类型在输入框中
+2022-06-09 13:45:37,673 - BasePage - INFO - 休眠 2 秒
+2022-06-09 13:45:37,792 - BasePage - INFO - 已截取屏幕截图并保存到文件夹 : /screenshots
+2022-06-09 13:45:39,807 - BasePage - INFO - 休眠 2 秒
+2022-06-09 13:45:39,812 - BasePage - INFO - 当前页面标题是 百度一下，你就知道
+2022-06-09 13:45:39,831 - BasePage - INFO - 找到了元素   id 成功  元素为: kw 
+2022-06-09 13:45:39,850 - BasePage - INFO - 输入前清除输入框中的文本.
+2022-06-09 13:45:41,856 - BasePage - INFO - 休眠 2 秒
+2022-06-09 13:45:43,865 - BasePage - INFO - 休眠 2 秒
+2022-06-09 13:45:43,876 - BasePage - INFO - 找到了元素   id 成功  元素为: kw 
+2022-06-09 13:45:43,941 - BasePage - INFO -  ' python ' 类型在输入框中
+2022-06-09 13:45:45,955 - BasePage - INFO - 休眠 2 秒
+2022-06-09 13:45:45,975 - BasePage - INFO - 找到了元素   xpath 成功  元素为: //*[@id='su'] 
+2022-06-09 13:45:46,034 - BasePage - INFO - 元素 '  ' 被点击.
+2022-06-09 13:45:48,046 - BasePage - INFO - 休眠 2 秒
+2022-06-09 13:45:50,058 - BasePage - INFO - 休眠 2 秒
+2022-06-09 13:45:50,392 - BasePage - INFO - 已截取屏幕截图并保存到文件夹 : /screenshots
